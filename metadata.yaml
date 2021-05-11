@@ -1,5 +1,8 @@
 _repo: Le-second-enfer-d-Etienne-Dolet-Suivi-de-sa-traduction-des-deux-dialogues-platoniciens-l-Axio__65275
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65275-h/images/cover.jpg
 creator:
   author:
     agent_name: Dolet, Etienne
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8701
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne_Dolet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65275#Le-second-enfer-d-Etienne-Dolet-Suivi-de-sa-traduction-des-deux-dialogues-platoniciens-l-Axio_
 gutenberg_issued: '2021-05-07'
 gutenberg_type: Text
 identifiers:
